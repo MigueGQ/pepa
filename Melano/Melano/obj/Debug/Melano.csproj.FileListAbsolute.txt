@@ -1,0 +1,7 @@
+C:\Users\Guardado\source\repos\Melano\Melano\obj\Debug\Melano.csproj.AssemblyReference.cache
+C:\Users\Guardado\source\repos\Melano\Melano\obj\Debug\Melano.csproj.CoreCompileInputs.cache
+C:\Users\Guardado\source\repos\Melano\Melano\bin\Debug\Melano.exe.config
+C:\Users\Guardado\source\repos\Melano\Melano\bin\Debug\Melano.exe
+C:\Users\Guardado\source\repos\Melano\Melano\bin\Debug\Melano.pdb
+C:\Users\Guardado\source\repos\Melano\Melano\obj\Debug\Melano.exe
+C:\Users\Guardado\source\repos\Melano\Melano\obj\Debug\Melano.pdb
